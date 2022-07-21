@@ -43,10 +43,7 @@ h1 {
 
 }
 
-
-
-
-link-button {
+.link-button {
     text-decoration: none;
     background-image: linear-gradient(red, tomato);
     padding: 10px 40px;
